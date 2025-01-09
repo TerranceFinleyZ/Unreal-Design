@@ -10,4 +10,4 @@ Planet R,P,S game
 
 Mother
 
-Zoob
+Zoob.
