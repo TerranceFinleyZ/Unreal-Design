@@ -6,8 +6,8 @@ Dec 9, 2024
 
 Set up grid 
 
-Planet R,P,S game
+Planet R,P,S game.
 
-Mother
+Mother.
 
 Zoob.
